@@ -2,7 +2,7 @@
 First University semester (2017 autumn) tasks written in C. Variables, comments and naming standard is part English, part Lithuanian.
 
 
-## Skills aquired after working with C tasks:
+## Skills acquired after working with C tasks:
 
 - C language syntax, basic library usage and basic programming concepts.
 - Pointers in C, their usage and basic concept of addressing.
